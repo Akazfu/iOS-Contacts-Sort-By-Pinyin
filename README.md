@@ -7,7 +7,11 @@ ios英文系统通讯录中文按照拼音排序的快捷指令
 相较于网上一些已经不可用的快捷指令（翻译鉴权问题,etc.），采用百家姓拼音字典的方案，效果应该还行。
 
 快捷指令下载链接🔗
-[⬇️ Download](https://www.icloud.com/shortcuts/bb1990e1d3894048b5d9adc7caf2515c)
+
+
+[![⬇️点击下载](Screenshot%202024-11-25%20at%2019.50.35.png)]([https://www.icloud.com/iclouddrive/你的共享链接地址](https://www.icloud.com/shortcuts/bb1990e1d3894048b5d9adc7caf2515c))
+
+
 
 功能特点
 
