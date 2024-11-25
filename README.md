@@ -9,7 +9,7 @@ ios英文系统通讯录中文按照拼音排序的快捷指令
 快捷指令下载链接🔗
 
 
-[![⬇️点击下载](Screenshot%202024-11-25%20at%2019.50.35.png)]([https://www.icloud.com/iclouddrive/你的共享链接地址](https://www.icloud.com/shortcuts/bb1990e1d3894048b5d9adc7caf2515c))
+[![⬇️点击下载](Screenshot%202024-11-25%20at%2019.50.35.png)](https://www.icloud.com/shortcuts/bb1990e1d3894048b5d9adc7caf2515c)
 
 
 
